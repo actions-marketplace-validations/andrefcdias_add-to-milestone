@@ -36,7 +36,7 @@
     "@types/minimatch": "5.1.2",
     "@types/node": "18.11.18",
     "@typescript-eslint/parser": "5.48.0",
-    "@vercel/ncc": "0.34.0",
+    "@vercel/ncc": "0.36.1",
     "casual": "1.6.2",
     "eslint": "8.31.0",
     "eslint-plugin-github": "4.3.7",
